@@ -1,4 +1,4 @@
-# edu-candy-beauty-arc-mint-red
+# edu-neo-candy-arc-mint-red
 
 Learn, have fun and enjoy.
 
