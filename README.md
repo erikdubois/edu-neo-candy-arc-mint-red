@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-neo-candy-arc-mint-red
 
 Mint-red variant of the Neo-Candy Arc icon family — colourful icons in a warm red palette tuned to pair with Mint-style Arc GTK themes. Part of the `~/EDU/` Neo-Candy series.
